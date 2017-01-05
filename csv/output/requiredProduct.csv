@@ -1,0 +1,17 @@
+Id,Vendor,"Product Name","Product Code",Unit,Weight,Price,"Filter Type"
+25,Vendor2,"Coriander Leaves (April-Nov)",3736,Kg,3,80,cheapest
+1,Vendor1,"Coriander Leaves (April-Nov)",3736,Kg,3,90,expensive
+3,Vendor1,"Ginger 500 Gm",4356,Grams,500,29.5,cheapest
+27,Vendor2,"Ginger 500 Gm",4356,Grams,500,30,expensive
+29,Vendor2,"Green Chilly",3732,Kg,1,37.5,cheapest
+53,Vendor3,"Green Chilly",3732,Kg,1,41,expensive
+7,Vendor1,"Garlic Whole",3746,Kg,1,105,cheapest
+55,Vendor3,"Garlic Whole",3746,Kg,1,105,expensive
+33,Vendor2,Lemon,3759,Kg,1,63,cheapest
+57,Vendor3,Lemon,3759,Kg,1,65,expensive
+60,Vendor3,"Bottleguard (Lauki)",3719,Kg,1.5,22,cheapest
+12,Vendor1,"Bottleguard (Lauki)",3719,Kg,1.5,27,expensive
+45,Vendor2,Cucumber,3740,Kg,3,23,cheapest
+69,Vendor3,Cucumber,3740,Kg,3,24,expensive
+24,Vendor1,"Green Chilly 500 Gm",4341,Grams,500,20,cheapest
+72,Vendor3,"Green Chilly 500 Gm",4341,Grams,500,21,expensive
